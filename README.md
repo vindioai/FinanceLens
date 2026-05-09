@@ -1,6 +1,6 @@
 # Finance Lens — Privacy Policy
 
-**Effective Date:** May 2026
+**Effective Date:** 9th of May 2026
 
 Finance Lens respects your privacy. This document explains how the app handles data and permissions.
 
