@@ -1,6 +1,6 @@
 
 <p align="left">
-  <img src="images/financelens.png" width="200">
+  <img src="images/financelens_logo.png" width="200">
 </p>
 
 # Finance Lens
