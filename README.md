@@ -1,5 +1,12 @@
-# Finance Lens — Privacy Policy
 
+<p align="left">
+  <img src="images/financelens.png" width="200">
+</p>
+
+# Finance Lens
+**Privacy Policy & Disclaimer**
+
+## Privacy Policy
 **Effective Date:** 9th of May 2026
 
 Finance Lens respects your privacy. This document explains how the app handles data and permissions.
