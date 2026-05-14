@@ -41,10 +41,15 @@ Finance Lens respects your privacy. This document explains how the app handles d
   Encryption: All purchase data is transmitted over HTTPS/TLS.
   Retention: Kept for the lifetime of your subscription as required by Google Play.
 
-## 6. Contact Information
+## Your rights
+Since your financial data lives only on your device, you have full control:
+Export: Settings → Backup & Restore → Export Data (JSON)
+Delete: uninstall the app or clear its storage in Android settings
+Cancel subscription: Google Play → Subscriptions
+
+## 7. Contact Information
 For questions or concerns regarding this Privacy Policy:  
 **Email:** info@vindioai.com
-
 
 ---
 
