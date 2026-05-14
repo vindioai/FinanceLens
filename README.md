@@ -32,7 +32,7 @@ Finance Lens respects your privacy. This document explains how the app handles d
 ## 5. Third-Party Services
 - **Frankfurter API** is used solely for currency exchange rate data.
 
-## Purchase data (collected via Google Play & RevenueCat)
+## 6. Purchase data (collected via Google Play & RevenueCat)
 - When you start or restore a subscription, the following is processed off-device:
   Anonymous purchase token and subscription status
   An anonymous RevenueCat user ID generated per install
