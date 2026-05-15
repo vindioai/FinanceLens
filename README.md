@@ -1,7 +1,7 @@
 
 <p align="left">
-  <img src="images/financelens_logo.png" width="200">
-    <img src="images/financelens_applogo_upgraded.png" width="200">
+ 
+    <img src="images/financelens_applogo_upgraded.png" width="300">
 
 </p>
 
